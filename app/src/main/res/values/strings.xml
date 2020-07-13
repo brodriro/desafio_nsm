@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesafioNisum</string>
+    <string name="item_detail_artistName">Linkin Park</string>
+    <string name="item_detail_trackName">New Divide</string>
+    <string name="item_detail_collectionName">Transformers: Revenge of the Fallen (The Album)</string>
+    <string name="transition_image">transition_image</string>
+</resources>
